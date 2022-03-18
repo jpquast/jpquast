@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋👨🏻‍💻
 
-<!--
-**jpquast/jpquast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am currently doing my PhD in the Picotti Lab at ETH in Zurich Switzerland  ⛰️🥼🥽🔬
+* I am a biochemist who works on protein metal interactions using mass spectrometry 🧪⚙️
+* I am interested in unstudied organisms 🧬🦠🪲🌱 and automation solutions using robots 🤖
 
-Here are some ideas to get you started:
+Check out our R package [**protti**](https://jpquast.github.io/protti/) developed for easy data analysis of bottom-up proteomics and LiP-MS data 🧪🔬💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CRAN
+status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org/package=protti)
+[![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/protti)](https://cran.r-project.org/package=protti)
+[![DOI:10.1093/bioadv/vbab041](http://img.shields.io/badge/DOI-10.1093/bioadv/vbab041-5680C1.svg)](https://doi.org/10.1093/bioadv/vbab041)
+
+You can also find me on [Twitter](https://twitter.com/QuastJP) and [LinkedIn](https://www.linkedin.com/in/jan-philipp-quast-5750a1132/) 🐦
+
+[![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpquast)](https://github.com/anuraghazra/github-readme-stats)
