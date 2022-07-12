@@ -14,4 +14,4 @@ status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org
 You can also find me on [Twitter](https://twitter.com/QuastJP) and [LinkedIn](https://www.linkedin.com/in/jan-philipp-quast-5750a1132/) 🐦
 
 [![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpquast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpquast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpquast&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
