@@ -11,7 +11,7 @@ status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org
 [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/protti)](https://cran.r-project.org/package=protti)
 [![DOI:10.1093/bioadv/vbab041](http://img.shields.io/badge/DOI-10.1093/bioadv/vbab041-5680C1.svg)](https://doi.org/10.1093/bioadv/vbab041)
 
-Also check out my R package [**ggplate**](https://jpquast.github.io/ggplate/) which can create simple plots of biological culture plates as well as microplates. 🧫📊🧬📈
+Also check out my R package [**ggplate**](https://jpquast.github.io/ggplate/) which can create simple plots of biological culture plates as well as microplates. 🧫🧬📊
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/ggplate)](https://CRAN.R-project.org/package=ggplate)
