@@ -1,6 +1,6 @@
 ### Hi there 👋👨🏻‍💻
 
-* I am currently doing my PhD in the Picotti Lab at ETH in Zurich Switzerland  ⛰️🥼🥽🔬
+* I did my PhD in the Picotti Lab at ETH in Zurich Switzerland  ⛰️🥼🥽🔬
 * I am a biochemist who works on protein metal interactions using mass spectrometry 🧪⚙️
 * I am interested in unstudied organisms 🧬🦠🪲🌱 and automation solutions using robots 🤖
 
