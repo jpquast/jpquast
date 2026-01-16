@@ -17,5 +17,5 @@ Also check out my R package [**ggplate**](https://jpquast.github.io/ggplate/) wh
 status](https://www.r-pkg.org/badges/version/ggplate)](https://CRAN.R-project.org/package=ggplate)
 [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/ggplate)](https://cran.r-project.org/package=ggplate)
 
-[![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpquast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpquast&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpquast&show_icons=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpquast&layout=compact&hide=html&langs_count=6&cache_seconds=86400)
